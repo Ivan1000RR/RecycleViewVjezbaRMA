@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recycle View</string>
+    <string name="nazad">Nazad</string>
+    <string name="id">ID</string>
+    <string name="ime">Ime</string>
+    <string name="prezime">Prezime</string>
+    <string name="REST_API">https://oziz.ffos.hr/nastava20222023/rma_22/v1</string>
+    <string name="REST_API_KLJUC">kljuc=ividovic</string>
+    <string name="REST_problem">problem s učitanjem podataka</string>
+    <string name="btnDodaj">Dodaj</string>
+    <string name="btnOdustani">Odustani</string>
+</resources>
